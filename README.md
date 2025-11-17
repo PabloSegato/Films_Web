@@ -1,16 +1,24 @@
-# React + Vite
+📜 README: The Simpsons App
+🚀 Descripción del Proyecto
+Este es un proyecto de aplicación web que consume una API para mostrar un listado de personajes de Los Simpson en un formato de cuadrícula (grid). El objetivo principal fue demostrar la integración de servicios externos, el manejo eficiente de datos asíncronos y la creación de una interfaz de usuario responsive y accesible.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Características Principales
+Se ha implementado la siguiente funcionalidad técnica:
 
-Currently, two official plugins are available:
+Consumo de API: Integración y gestión exitosa de datos provenientes de un servicio RESTful externo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Presentación en Cuadrícula (Grid Layout): Estructuración del layout para una visualización clara y navegable del listado de personajes.
 
-## React Compiler
+Gestión de Estado y Eventos: Manejo robusto del flujo de datos (fetch, carga, errores) y la interacción del usuario.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+Detalle de Personaje: Visualización de múltiples atributos y datos informativos para cada entrada en el listado.
 
-## Expanding the ESLint configuration
+Diseño Responsive: Implementación de técnicas de diseño que aseguran la correcta adaptación y visualización de la aplicación en diferentes dispositivos (móviles, tabletas y escritorio).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🌐 Demo en Vivo
+
+Puedes acceder y probar la aplicación directamente a través del siguiente enlace:
+
+👉 **[The Simpsons App Live Demo](https://pnsdevlossimpsonapp.netlify.app/)**
+
+👉 The Simpsons App Live Demo
