@@ -1,4 +1,4 @@
-📜 README: The Simpsons App
+
 🚀 Descripción del Proyecto
 Este es un proyecto de aplicación web que consume una API para mostrar un listado de personajes de Los Simpson en un formato de cuadrícula (grid). El objetivo principal fue demostrar la integración de servicios externos, el manejo eficiente de datos asíncronos y la creación de una interfaz de usuario responsive y accesible.
 
