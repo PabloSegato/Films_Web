@@ -21,4 +21,4 @@ Puedes acceder y probar la aplicación directamente a través del siguiente enla
 
 👉 **[The Simpsons App Live Demo](https://pnsdevlossimpsonapp.netlify.app/)**
 
-👉 The Simpsons App Live Demo
+
